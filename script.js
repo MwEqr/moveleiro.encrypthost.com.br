@@ -172,7 +172,7 @@ document.addEventListener('DOMContentLoaded', () => {
         if (ambienteText && ambiente.value) text += `*Ambiente:* ${ambienteText}%0A`;
         if (message) text += `*Mensagem:* ${message}%0A`;
 
-        window.open(`https://wa.me/5512999999999?text=${text}`, '_blank');
+        window.open(`https://wa.me/5512988732016?text=${text}`, '_blank');
     });
 
     // ---------- Smooth Anchor Scroll ----------
